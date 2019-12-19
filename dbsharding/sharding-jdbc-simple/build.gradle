@@ -1,0 +1,40 @@
+/*
+plugins {
+    id 'java'
+}
+
+group 'com.el'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+*/
+
+/*dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    // https://mvnrepository.com/artifact/io.springfox/springfox-swagger2
+    compile group: 'io.springfox', name: 'springfox-swagger2', version: '2.9.2'
+    // https://mvnrepository.com/artifact/io.springfox/springfox-swagger-ui
+    compile group: 'io.springfox', name: 'springfox-swagger-ui', version: '2.9.2'
+    // https://mvnrepository.com/artifact/org.projectlombok/lombok
+    compileOnly group: 'org.projectlombok', name: 'lombok', version: '1.18.0'
+    // https://mvnrepository.com/artifact/javax.interceptor/javax.interceptor-api
+    compile group: 'javax.interceptor', name: 'javax.interceptor-api', version: '1.2'
+    // https://mvnrepository.com/artifact/mysql/mysql-connector-java
+    compile group: 'mysql', name: 'mysql-connector-java', version: '5.1.47'
+    // https://mvnrepository.com/artifact/org.mybatis.spring.boot/mybatis-spring-boot-starter
+    compile group: 'org.mybatis.spring.boot', name: 'mybatis-spring-boot-starter', version: '2.0.0'
+    // https://mvnrepository.com/artifact/com.alibaba/druid-spring-boot-starter
+    compile group: 'com.alibaba', name: 'druid-spring-boot-starter', version: '1.1.16'
+    // https://mvnrepository.com/artifact/org.apache.shardingsphere/sharding-jdbc-spring-boot-starter
+    compile group: 'org.apache.shardingsphere', name: 'sharding-jdbc-spring-boot-starter', version: '4.0.0-RC1'
+    // https://mvnrepository.com/artifact/com.baomidou/mybatis-plus-boot-starter
+    compile group: 'com.baomidou', name: 'mybatis-plus-boot-starter', version: '3.1.0'
+    // https://mvnrepository.com/artifact/com.baomidou/mybatis-plus-generator
+    compile group: 'com.baomidou', name: 'mybatis-plus-generator', version: '3.1.0'
+    // https://mvnrepository.com/artifact/org.mybatis/mybatis-typehandlers-jsr310
+    compile group: 'org.mybatis', name: 'mybatis-typehandlers-jsr310', version: '1.0.2'
+}*/

@@ -1,0 +1,8 @@
+rootProject.name = 'javaparent'
+include 'dbsharding'
+include 'dbsharding:sharding-jdbc-simple'
+findProject(':dbsharding:sharding-jdbc-simple')?.name = 'sharding-jdbc-simple'
+include 'dbsharding:shoping'
+findProject(':dbsharding:shoping')?.name = 'shoping'
+include 'java-base'
+
